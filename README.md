@@ -76,7 +76,7 @@ The repository consists of 12 lecture notes covering the following topics:
 For more detailed explanations and related content (in Indonesian), please visit the following blog posts:
 
 - [Outline Persepsi Pendengaran Manusia](https://bagustris.blogspot.com/2020/07/outline-persepsi-pendengaran-manusia.html) - An outline of human auditory perception
-- [Human Perceptual Systems Blog Series](https://bagustris.blogspot.com/search/label/perceptual%20systems) - Collection of posts related to perceptual systems
+- [Human Perceptual Systems Blog Series](https://bagustris.blogspot.com/search/label/persepsi) - Collection of posts related to perceptual systems
 
 ## Topics Covered
 
